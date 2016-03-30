@@ -1,4 +1,4 @@
-## <The Current GDD of this game will quite accurately represent all the stuffz in this repo!>
+### The Current GDD of this game will quite accurately represent all the stuffz in this repo!
 
 #Tank Battle!
 
