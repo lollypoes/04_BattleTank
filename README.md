@@ -1,5 +1,7 @@
-##<The Current GDD of this game will quite accurately represent all the stuffz in this repo!>
+## <The Current GDD of this game will quite accurately represent all the stuffz in this repo!>
+
 #Tank Battle!
+
 What is it?!
 Tank Battle! is an open-world tank game. The player will get a 3rd person view, and the aim is to get in reach of your enemy and to shoot them down before you get shot down!
 
